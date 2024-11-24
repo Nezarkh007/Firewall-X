@@ -24,5 +24,5 @@ A Python-based firewall designed to enhance your network security by filtering t
 ### Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/users/Nezarkh007/projects/1
+   git clone https://github.com/Nezarkh007/Firewall-X
    cd firewall-x  
