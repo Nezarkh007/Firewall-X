@@ -6,7 +6,7 @@ Firewall-X is a beginner-friendly Python-based firewall application designed to 
 A Python-based firewall designed to enhance your network security by filtering traffic based on customizable rules. This project is ideal for learning the basics of cybersecurity, networking, and Python programming.  
 
 ## Features  
-- 
+ 
 - **Traffic Monitoring:** Logs and displays incoming and outgoing traffic.  
 - **Rule-Based Filtering:** Define custom rules to allow or block specific traffic.  
 - **Port Scanning Protection:** Detects and blocks unauthorized port scanning attempts.  
